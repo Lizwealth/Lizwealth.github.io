@@ -11,40 +11,40 @@ A collection of my work
 
 - **[BuyLetLive](https://github.com/Lizwealth/Projects/blob/main/BuyLetLive%20Presentation.pptx)**
 
-BuyLetLive is a real estate marketplace that connects renters, buyers, sellers, and developers. One of their goals is to make renting and owning property more accessible.Created create an end-to-end product strategy, road map and blueprint to help them achieve this, resulting in user-led growth and top-of-mind awareness. 
+> BuyLetLive is a real estate marketplace that connects renters, buyers, sellers, and developers. One of their goals is to make renting and owning property more accessible.Created create an end-to-end product strategy, road map and blueprint to help them achieve this, resulting in user-led growth and top-of-mind awareness. 
 
 
 
 - **[LeggallyAi](https://github.com/Lizwealth/Projects/blob/main/LegallyAI.zip)**
 
-The Legal AI Generative Solution aims to revolutionize the legal services industry by providing an AI-powered platform that can meet the needs of both lawyers and non-lawyers. This solution leverages Natural Language Processing to automate the legal document generation process, reducing the time and effort required to create legal documents.
+> The Legal AI Generative Solution aims to revolutionize the legal services industry by providing an AI-powered platform that can meet the needs of both lawyers and non-lawyers. This solution leverages Natural Language Processing to automate the legal document generation process, reducing the time and effort required to create legal documents.
 
 
 
 - **[GbemsHealth](https://github.com/Lizwealth/Projects/blob/main/GBEMS%20CARE%20Room%205.pdf)**
 
-GbemsHealth is an Electronic Medical Record (EMR) which is a digital tool used in the healthcare industry to automate patient encounters and manage patient records. It provides a unified platform for service providers to access patient data and streamline healthcare services. EMR is a cost-effective solution that helps improve the quality of healthcare services based on the specific needs of the service providers.
+> GbemsHealth is an Electronic Medical Record (EMR) which is a digital tool used in the healthcare industry to automate patient encounters and manage patient records. It provides a unified platform for service providers to access patient data and streamline healthcare services. EMR is a cost-effective solution that helps improve the quality of healthcare services based on the specific needs of the service providers.
 
 
 
 - **[GbemsHealth Value Prop](https://github.com/Lizwealth/Projects/blob/main/Room%204.pdf)**
 
-Value Propostition for An Electronic Medical Record (EMR) which is a digital tool used in the healthcare industry to automate patient encounters and manage patient records. It provides a unified platform for service providers to access patient data and streamline healthcare services. EMR is a cost-effective solution that helps improve the quality of healthcare services based on the specific needs of the service providers.
+> Value Propostition for An Electronic Medical Record (EMR) which is a digital tool used in the healthcare industry to automate patient encounters and manage patient records. It provides a unified platform for service providers to access patient data and streamline healthcare services. EMR is a cost-effective solution that helps improve the quality of healthcare services based on the specific needs of the service providers.
 
 
 
 - **[TidyIt](https://github.com/Lizwealth/Projects/blob/main/TidyIt-20230322T175312Z-001.zip)**
 
-Brand Positioning (Sellers)
+> Brand Positioning (Sellers)
 For individuals who want to get value for their less-needed item in quick time, TidyIt provides a platform to list multiple categories of items. The delivery process on TidyIt spotlights your listed items to a wider audience as we process delivery to any part of the country. Unlike other used goods platforms, TidyIt lists and sell your Items at the lowest commission.
 
-Brand Positioning (Buyers)
+> Brand Positioning (Buyers)
 For individuals who want to purchase authentic Items at affordable rates from verified sellers, TidyIt provides a secured and seamless marketplace. TidyIt sets the pace for other used goods platforms, with its door -step delivery and money back guarantee.
 
 
 - **[Product Led Growth Case study](https://github.com/Lizwealth/Projects/blob/main/ROOM%207%20-PLG%20Q2%20REDONE.docx)**
 
-Growthclan is looking for a product-led strategy that would enable them to provide career support to individuals in need for less than $3. We developed a pricing model and product-led strategy with a viral loop that is scalable and requires relatively little human engagement. Articulate a product-led strategy that will help attain its goal. 
+> Growthclan is looking for a product-led strategy that would enable them to provide career support to individuals in need for less than $3. We developed a pricing model and product-led strategy with a viral loop that is scalable and requires relatively little human engagement. Articulate a product-led strategy that will help attain its goal. 
 
 
 
