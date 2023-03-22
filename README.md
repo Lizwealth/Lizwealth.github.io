@@ -18,6 +18,9 @@ Our team created an end-to-end product strategy, road map, and blueprint that wi
 Join us on this exciting journey with BuyLetLive, as we create a more accessible and inclusive real estate marketplace for everyone!
 
 
+
+* ### Capstone Project for Women Techsters
+
 - **[LeggallyAi](https://github.com/Lizwealth/Projects/blob/main/LegallyAI.zip)**
 
 > Carried out this project with talented group of women in women techsters. We worked tirelessly on an innovative project for our capstone project! We are thrilled to introduce the Legal AI Generative Solution, an AI-powered platform that promises to revolutionize the legal services industry.
@@ -35,32 +38,36 @@ Join us in our mission to transform the legal services industry with the Legal A
 
 
 
-- **[GbemsHealth Value Prop](https://github.com/Lizwealth/Projects/blob/main/Room%204.pdf)**
+- **[GbemsHealth Value Proposition](https://github.com/Lizwealth/Projects/blob/main/Room%204.pdf)**
 
-> Value Propostition for An Electronic Medical Record (EMR) which is a digital tool used in the healthcare industry to automate patient encounters and manage patient records. It provides a unified platform for service providers to access patient data and streamline healthcare services. EMR is a cost-effective solution that helps improve the quality of healthcare services based on the specific needs of the service providers.
+> Developed a value Propostition for GbemsHealth with regards the EMR. 
 
 
 
 - **[TidyIt](https://github.com/Lizwealth/Projects/blob/main/TidyIt-20230322T175312Z-001.zip)**
 
-> Amazing group of ladies has worked on a game-changing project that we're thrilled to share with you! Introducing TidyIt - the ultimate platform for buying and selling authentic items seamlessly and securely.
+> I worked with an amazing group of ladies to develop a game-changing project that I am thrilled to share with you! 
 
-For sellers looking to get value for their less-needed items in record time, TidyIt offers a one-stop-shop to list multiple categories of items. Our delivery process ensures that your listed items reach a wider audience, as we process delivery to any part of the country. What's more, unlike other used goods platforms, TidyIt lists and sells your items at the lowest commission, ensuring that you get the best possible value for your items.
+> **Introducing TidyIt - the ultimate platform for buying and selling authentic items seamlessly and securely.**
 
-For buyers on the hunt for authentic items at affordable rates from verified sellers, TidyIt is the perfect marketplace. We set the pace for other used goods platforms with our door-step delivery and money-back guarantee, ensuring that you can shop with confidence. Our platform is designed to be secure and seamless, making your shopping experience hassle-free and enjoyable.
+> For sellers looking to get value for their less-needed items in record time, TidyIt offers a one-stop-shop to list multiple categories of items. Our delivery process ensures that your listed items reach a wider audience, as we process delivery to any part of the country. What's more, unlike other used goods platforms, TidyIt lists and sells your items at the lowest commission, ensuring that you get the best possible value for your items.
 
-Join us on TidyIt and experience the future of buying and selling authentic items today!
+> For buyers on the hunt for authentic items at affordable rates from verified sellers, TidyIt is the perfect marketplace. We set the pace for other used goods platforms with our door-step delivery and money-back guarantee, ensuring that you can shop with confidence. Our platform is designed to be secure and seamless, making your shopping experience hassle-free and enjoyable.
+
+
+**Join us on TidyIt and experience the future of buying and selling authentic items today!**
 
 
 - **[Product Led Growth Case study](https://github.com/Lizwealth/Projects/blob/main/ROOM%207%20-PLG%20Q2%20REDONE.docx)**
 
-> I completed with a talented group of ladies! We worked closely with Growthclan to create a game-changing product-led strategy that will enable them to provide career support to individuals in need for less than $3.
+> I completed a product led growth strategy with a talented group of ladies! We worked closely with a case study which required us to help a company named **Growthclan** to create a game-changing product-led strategy that will enable them to provide career support to individuals in need for less than $3.
 
-Our team developed a unique pricing model and product-led strategy that is both scalable and requires relatively little human engagement. With a viral loop embedded into the strategy, our approach ensures that the platform can grow organically, without the need for extensive marketing or costly advertising campaigns.
+My team developed a unique pricing model and product-led strategy that is both scalable and requires relatively little human engagement. With a viral loop embedded into the strategy, our approach ensures that the platform can grow organically, without the need for extensive marketing or costly advertising campaigns.
 
-Our articulate product-led strategy is designed to empower individuals looking for career support and guidance, providing them with the tools and resources they need to succeed. With a focus on accessibility and affordability, Growthclan is now able to reach a wider audience, providing career support to those who need it most.
+> Our articulate product-led strategy is designed to empower individuals looking for career support and guidance, providing them with the tools and resources they need to succeed. With a focus on accessibility and affordability, Growthclan is now able to reach a wider audience, providing career support to those who need it most.
 
-Join us on this exciting journey as we help Growthclan achieve its goal of providing career support to individuals in need for less than $3. Experience the power of our innovative product-led strategy today! 
+
+**Join us on this exciting journey as we help Growthclan achieve its goal of providing career support to individuals in need for less than $3. Experience the power of our innovative product-led strategy today!**
 
 
 
