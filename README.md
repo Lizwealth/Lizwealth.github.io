@@ -17,12 +17,12 @@ A collection of my work
 
 * ## Projects
 
-1. **[DfoodHub](https://github.com/Lizwealth/Projects/blob/main/DFOODHUB.zip)**
+ **[DfoodHub](https://github.com/Lizwealth/Projects/blob/main/DFOODHUB.zip)**
 
 > This project was collaboratively undertaken with a group of dedicated women with the purpose of tackling the pressing issue of hunger and malnutrition prevalent in the rural communities of Lagos. Additionally, the project seeks to create a user-friendly platform for food donations from individuals with excess food, which incorporates a transparent order tracking system. Ultimately, the project's overarching goal is to eliminate malnutrition in at least 20 households residing in these regions, bringing positive change to these communities.
 
 
-2. **[TidyIt](https://github.com/Lizwealth/Projects/blob/main/TidyIt-20230322T175312Z-001.zip)**
+ **[TidyIt](https://github.com/Lizwealth/Projects/blob/main/TidyIt-20230322T175312Z-001.zip)**
 
 > I worked with an amazing group of ladies to develop a game-changing project that I am thrilled to share with you! 
 
@@ -36,23 +36,23 @@ A collection of my work
 
 * ## Case Studies
 
-1. **[BuyLetLive](https://github.com/Lizwealth/Projects/blob/main/BuyLetLive%20Presentation.pptx)**
+ **[BuyLetLive](https://github.com/Lizwealth/Projects/blob/main/BuyLetLive%20Presentation.pptx)**
 
 > Embarked on this project with a brilliant group of ladies to help BuyLetLive, a dynamic real estate marketplace, revolutionize the industry! BuyLetLive is dedicated to bridging the gap between renters, buyers, sellers, and developers, with the aim of making property ownership and renting more accessible to all.
 
 > We created an end-to-end product strategy, road map, and blueprint that will propel BuyLetLive towards its goal of achieving user-led growth and top-of-mind awareness. With a strong focus on enhancing the user experience, our strategy promises to transform the real estate marketplace, making it easier and more efficient for individuals to buy, sell or rent their dream properties.
 
 
-2. **[GbemsHealth](https://github.com/Lizwealth/Projects/blob/main/GBEMS%20CARE%20Room%205.pdf)**
+ **[GbemsHealth](https://github.com/Lizwealth/Projects/blob/main/GBEMS%20CARE%20Room%205.pdf)**
 
 > GbemsHealth is an Electronic Medical Record (EMR) which is a digital tool used in the healthcare industry to automate patient encounters and manage patient records. It provides a unified platform for service providers to access patient data and streamline healthcare services.
 
 
-3. **[GbemsHealth Value Proposition](https://github.com/Lizwealth/Projects/blob/main/Room%204.pdf)**
+ **[GbemsHealth Value Proposition](https://github.com/Lizwealth/Projects/blob/main/Room%204.pdf)**
 
 > Developed a value Propostition for GbemsHealth with regards the EMR. 
 
-4. **[Product Led Growth Case study](https://github.com/Lizwealth/Projects/blob/main/ROOM%207%20-PLG%20Q2%20REDONE.docx)**
+ **[Product Led Growth Case study](https://github.com/Lizwealth/Projects/blob/main/ROOM%207%20-PLG%20Q2%20REDONE.docx)**
 
 > I completed a product led growth strategy with a talented group of ladies! We worked closely with a case study which required us to help a company named **Growthclan** to create a game-changing product-led strategy that will enable them to provide career support to individuals in need for less than $3.
 
